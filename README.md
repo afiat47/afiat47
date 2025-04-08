@@ -2,12 +2,12 @@
 
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=afiat47&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=afiat47&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -17,4 +17,4 @@
 ---
 
 ### 📌 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afiat47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
