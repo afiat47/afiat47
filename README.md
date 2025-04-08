@@ -10,11 +10,15 @@
 
 ## 🧰 Tech Stack & Interests
 
-- Android and Java Development
-- Embedded systems, IoT, Visualization
+ - Android and Java Development
+ - Embedded systems, IoT
+ - Astronomy and Rockets
 
-## 📫 How to reach me: afiatkhan52@gmail.com
-
+## 📫 How to reach me: 
+  **Email: afiatkhan52@gmail.com**
+  **LinkedIn: www.linkedin.com/in/afiatkhan47**
+  
+                        
 ![Profile views](https://komarev.com/ghpvc/?username=afiat47&label=Profile%20views&color=0e75b6&style=flat)
 
 
