@@ -1,5 +1,20 @@
 # Hi 👋, I'm Afiat
 
+## 🎓 Education
+
+🎓 **Final Year Student**  
+📍 **Department of Computer Science and Engineering**  
+🏫 **Khulna University of Engineering and Technology (KUET)**  
+📍 **Khulna, Bangladesh**
+
+
+## 🧰 Tech Stack & Interests
+
+- Android and Java Development
+- Embedded systems, IoT, Visualization
+
+## 📫 How to reach me: afiatkhan52@gmail.com
+
 ![Profile views](https://komarev.com/ghpvc/?username=afiat47&label=Profile%20views&color=0e75b6&style=flat)
 
 
