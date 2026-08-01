@@ -2,7 +2,7 @@
 
 ## 🎓 Education
 
-🎓 **Final Year Student**  
+🎓 **Graduate Student**  
 📍 **Department of Computer Science and Engineering**  
 🏫 **Khulna University of Engineering and Technology (KUET)**  
 📍 **Khulna, Bangladesh**
