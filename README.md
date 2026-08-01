@@ -1,5 +1,5 @@
 # Hi 👋, I'm Afiat
-# Network Embedded System Engineer
+**Network Embedded System Engineer**
 
 ## 🎓 Education
 
