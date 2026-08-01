@@ -11,7 +11,7 @@
 ## 🧰 Tech Stack & Interests
 
  - Android and Java Development
- - Embedded systems, IoT
+ - Embedded systems, IoT, Networking
  - Astronomy and Rockets
 
 ## 📫 How to reach me: 
